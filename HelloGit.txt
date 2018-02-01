@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-Whats here
-=======
 Whats guys
->>>>>>> 824dcf939c522b9db5b266b41187d04fb7449e13
 up?
 How
 are 
